@@ -1,0 +1,6 @@
+framework module Pods_Hitesh_iOS_Assignment {
+  umbrella header "Pods-Hitesh_iOS_Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

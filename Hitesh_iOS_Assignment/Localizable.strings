@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Hitesh_iOS_Assignment
+
+  Created by Hitesh Veshnav on 21/02/19.
+  Copyright © 2019 Hitesh Veshnav. All rights reserved.
+*/
+
+// MARK :- General String
+"n/a" = "N/A";
+"Ok" = "Ok";
+"error_internet_issue" = "This app needs an internet connection. Please connect with the internet.";
+"location_list" = "UK,England,Scotland,Wales";
+
+// MARK :- Months String
+"january" = "January";
+"february" = "February";
+"march" = "March";
+"april" = "April";
+"may" = "May";
+"june" = "June";
+"july" = "July";
+"august" = "August";
+"september" = "September";
+"october" = "October";
+"november" = "November";
+"december" = "December";
